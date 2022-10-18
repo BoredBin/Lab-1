@@ -1,5 +1,5 @@
 # Lab-1
 
-Educational Purposes
+For Educational Purposes
 
 https://boredbin.github.io/Lab-1/

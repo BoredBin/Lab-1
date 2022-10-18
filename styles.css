@@ -1,0 +1,26 @@
+
+.holding-container{
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+
+
+.holding-container .internal-containerL{
+    flex: 1;
+    padding: 30px;
+    text-align: center;
+}
+.holding-container .internal-containerM{
+    flex: 1;
+    padding: 30px;
+    text-align: center;
+}
+.holding-container .internal-containerR{
+    flex: 1;
+    padding: 30px;
+    text-align: center;
+}
